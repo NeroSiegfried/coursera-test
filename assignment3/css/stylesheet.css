@@ -1,0 +1,33 @@
+body{
+	background-color: "light grey";
+}
+
+h1{
+	margin-bottom: 30px;
+}
+
+
+.navbar .container-fluid{
+	overflow: visible;
+}
+.navbar-nav{
+}
+.nav-item{
+	color: white;;
+	margin-left: : auto;
+}
+
+.nav-bar-collapse {
+}
+
+.col-sm-6, .col-md-4, .col-xs-12, .col-sm-12 {
+	float: left;
+	padding: 0 15px;
+	box-sizing: border-box;
+	margin-bottom: 30px;
+}
+
+.col-md-12, .col-sm-6 > .col-sm-12, .col-sm-12 > .col-sm-12, .col-xs-12 > .col-xs-12{
+	background-color: grey;
+	margin: 0px;
+}
